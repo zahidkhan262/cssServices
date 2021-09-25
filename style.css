@@ -1,0 +1,163 @@
+*{padding: 0; margin: 0;font-family: sans-serif;}
+
+.services{border: 1px solid #d8d5d5; margin: 20px;}
+.container{max-width:1200px; margin:0px auto; padding: 10px;}
+.row{display: flex;  flex-wrap: wrap; justify-content: space-around; align-items: center;}
+.col-3{width: 25%; padding: 0px;}
+.d-flex{ display: flex; align-items: center;}
+.logo-1 img{margin-right: 5px}
+.content h3{margin-bottom: 10px; font-size: 18px; color: #434343;}
+.content p{font-size: 13px; color: #292828;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* margin */
+
+/* #margin{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 40px;
+    margin-left: 50px; 
+    margin-bottom: 60px;
+} */
+/* #margin-2{
+    margin: -40px auto;
+} */
+
+
+/* .padding{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 50px; 
+    padding: 20px 50px 40px 60px;
+} */
+
+
+/* background in Css */
+/* how to set background color and image in css */
+
+/* .bg{
+    height: 100vh;
+    background-color: rgba(0,0,0,0.3);
+} */
+
+/* .bg{
+    height: 100vh;
+    background: url(css.png) no-repeat fixed center;
+} */
+/* h1{
+  
+} 
+.bg{
+    height: 100vh;
+ background: rgb(115, 255, 0) url(transparent.gif) no-repeat center;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------Border in Css----------------- */
+/* h1{
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+} */
+ /* h1{
+     border: 10px solid #fff111;
+     border-top: 10px solid green;
+     border-radius: 12px;
+ } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background: rgba(0,0,0,0.8);
+}
+
+p{
+    color: #019fbd;
+}
+.paragraph{
+    color: red;
+} */
+/* #paragraph-1{
+    color: blue; 
+    color: rgb(255, 255, 255);
+    color: #019fbd;
+    color: hsl(90, 150%, 200%);
+    color: hsla(90, 180%, 200%, 0.1)
+} */
+/* high priority ID then Class------>then element tag */
+
+/* predefine color names -----> red , green and so on */
+
+/* RGB(red green blue)0 to 255 */
+
+/* RGBA(red green blue , Alpha) 0.1 to 1.0 */
+
+/* HEX(#rrggbb) */
+
+/* HSL(hue, saturation, lightness) 0 to 360  percentage*/ 
+/* HSLA(hue, saturation, lightness and alpha) 0.1 to 1.0  */
